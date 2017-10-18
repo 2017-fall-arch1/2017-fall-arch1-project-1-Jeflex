@@ -1,4 +1,4 @@
-# arch1-linked-list-demo
+# Phillip Hassoun's BST in C
 
 To compile:
 ~~~
